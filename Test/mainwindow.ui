@@ -24,20 +24,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label">
-    <property name="geometry">
-     <rect>
-      <x>200</x>
-      <y>160</y>
-      <width>69</width>
-      <height>19</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>hhhhhhhhhhhh</string>
+     <string>hsiufhin</string>
     </property>
    </widget>
   </widget>
@@ -54,22 +41,5 @@
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources/>
- <connections>
-  <connection>
-   <sender>pushButton</sender>
-   <signal>clicked()</signal>
-   <receiver>label</receiver>
-   <slot>show()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>180</x>
-     <y>119</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>234</x>
-     <y>193</y>
-    </hint>
-   </hints>
-  </connection>
- </connections>
+ <connections/>
 </ui>
